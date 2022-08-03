@@ -1,1 +1,2 @@
 Este es un ejemplo de la clase 
+Se nos enseño el uso del commit y el guardado de archivos al GIT
